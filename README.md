@@ -155,7 +155,7 @@ The automated scanning process reduces manual measurement effort while improving
 
 **5.1 FLOW CHART**
 
- 
+ https://github.com/TECS-TheelectronicsclubatSASTRA/Surface_Scanner/blob/main/Images/5.1%20Flow%20of%20working.png
 
 Fig.No.:5.1Flow of working
 
