@@ -115,7 +115,7 @@ This adapter provides the main DC power for the motor and driver circuit. It del
 
 **4. CIRCUIT DIAGRAM**
 
-
+https://github.com/TECS-TheelectronicsclubatSASTRA/Surface_Scanner/blob/main/Images/4.1%20Schematic%20of%20the%20circuit.jpeg
 
 Fig. No.:4.1 Schematic of the circuit
 
