@@ -525,3 +525,4 @@ https://github.com/TECS-TheelectronicsclubatSASTRA/Surface_Scanner/blob/main/Ima
 
 12.3 OUTPUT
 
+https://github.com/TECS-TheelectronicsclubatSASTRA/Surface_Scanner/blob/main/Images/12.3%20Output.jpeg
