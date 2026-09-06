@@ -7,14 +7,14 @@
     4.  Principle in proposed solution
 2.  Objectives
 3.  Bill of Materials
-    3.1.  Components description
+    1.  Components description
 4.  Schematic
-    4.1.  Circuit description
+    1.  Circuit description
 5.  Working
-    5.1.  Flow chart
-    5.2.  Calculations
-    5.3.  Pseudocode
-    5.4.  Actual code
+    1.  Flow chart
+    2.  Calculations
+    3.  Pseudocode
+    4.  Actual code
 6. Difficulties faced
 7. Limitations
 8. Future scopes and extensions
