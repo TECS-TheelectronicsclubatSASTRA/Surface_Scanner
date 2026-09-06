@@ -521,7 +521,7 @@ https://github.com/TECS-TheelectronicsclubatSASTRA/Surface_Scanner/blob/main/Ima
 
 12.2 ARRANGEMENT
 
-
+https://github.com/TECS-TheelectronicsclubatSASTRA/Surface_Scanner/blob/main/Images/12.2%20Arrangement.jpeg
 
 12.3 OUTPUT
 
