@@ -517,7 +517,7 @@ Region of Interest (ROI): A configurable sensing area of the VL53L1X sensor used
 
 12.1 CIRCUIT
 
-
+https://github.com/TECS-TheelectronicsclubatSASTRA/Surface_Scanner/blob/main/Images/12.1%20Circuit.jpeg
 
 12.2 ARRANGEMENT
 
